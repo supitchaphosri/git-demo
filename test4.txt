@@ -1,15 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-test4
-
-=======
-test4 edit 1stbranch
->>>>>>> firstbranch
-=======
 
 
 test4  again in firstbranch
 
 
->>>>>>> firstbranch
