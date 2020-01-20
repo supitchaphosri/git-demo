@@ -1,0 +1,5 @@
+git log 
+git init
+git commit -m "Add ... file"
+git add ...
+git add . 
