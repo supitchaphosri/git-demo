@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 test4
 
+=======
+test4 edit 1stbranch
+>>>>>>> firstbranch
